@@ -1,0 +1,252 @@
+{
+    "date": "2022-03-11 13:19:57.179491",
+    "categories": [
+        {
+            "name": "liquid",
+            "thumb": "category_thumb/liquid.png"
+        },
+        {
+            "name": "anime",
+            "thumb": "category_thumb/anime.png"
+        },
+        {
+            "name": "material",
+            "thumb": "category_thumb/material.png"
+        }
+    ],
+    "liquid": {
+        "categoryName": "liquid",
+        "paths": [
+            {
+                "original": "liquid/liquid_18.jpg",
+                "compressed": "liquid/thumb/liquid_18.jpg",
+                "isNew": true
+            },
+            {
+                "original": "liquid/liquid_17.png",
+                "compressed": "liquid/thumb/liquid_17.png",
+                "isNew": true
+            },
+            {
+                "original": "liquid/liquid_16.png",
+                "compressed": "liquid/thumb/liquid_16.png",
+                "isNew": true
+            },
+            {
+                "original": "liquid/liquid_15.png",
+                "compressed": "liquid/thumb/liquid_15.png",
+                "isNew": true
+            },
+            {
+                "original": "liquid/liquid_14.png",
+                "compressed": "liquid/thumb/liquid_14.png",
+                "isNew": true
+            },
+            {
+                "original": "liquid/liquid_13.png",
+                "compressed": "liquid/thumb/liquid_13.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_12.png",
+                "compressed": "liquid/thumb/liquid_12.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_11.png",
+                "compressed": "liquid/thumb/liquid_11.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_10.png",
+                "compressed": "liquid/thumb/liquid_10.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_9.png",
+                "compressed": "liquid/thumb/liquid_9.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_8.png",
+                "compressed": "liquid/thumb/liquid_8.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_7.png",
+                "compressed": "liquid/thumb/liquid_7.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_6.png",
+                "compressed": "liquid/thumb/liquid_6.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_5.png",
+                "compressed": "liquid/thumb/liquid_5.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_4.png",
+                "compressed": "liquid/thumb/liquid_4.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_3.png",
+                "compressed": "liquid/thumb/liquid_3.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_2.png",
+                "compressed": "liquid/thumb/liquid_2.png",
+                "isNew": false
+            },
+            {
+                "original": "liquid/liquid_1.png",
+                "compressed": "liquid/thumb/liquid_1.png",
+                "isNew": false
+            }
+        ]
+    },
+    "anime": {
+        "categoryName": "anime",
+        "paths": [
+            {
+                "original": "anime/anime_10.jpg",
+                "compressed": "anime/thumb/anime_10.jpg",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_9.jpg",
+                "compressed": "anime/thumb/anime_9.jpg",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_8.png",
+                "compressed": "anime/thumb/anime_8.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_7.jpg",
+                "compressed": "anime/thumb/anime_7.jpg",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_6.png",
+                "compressed": "anime/thumb/anime_6.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_5.png",
+                "compressed": "anime/thumb/anime_5.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_4.png",
+                "compressed": "anime/thumb/anime_4.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_3.png",
+                "compressed": "anime/thumb/anime_3.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_2.png",
+                "compressed": "anime/thumb/anime_2.png",
+                "isNew": false
+            },
+            {
+                "original": "anime/anime_1.png",
+                "compressed": "anime/thumb/anime_1.png",
+                "isNew": false
+            }
+        ]
+    },
+    "material": {
+        "categoryName": "material",
+        "paths": [
+            {
+                "original": "material/material_16.png",
+                "compressed": "material/thumb/material_16.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_15.png",
+                "compressed": "material/thumb/material_15.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_14.png",
+                "compressed": "material/thumb/material_14.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_13.png",
+                "compressed": "material/thumb/material_13.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_12.png",
+                "compressed": "material/thumb/material_12.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_11.png",
+                "compressed": "material/thumb/material_11.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_10.png",
+                "compressed": "material/thumb/material_10.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_9.png",
+                "compressed": "material/thumb/material_9.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_8.png",
+                "compressed": "material/thumb/material_8.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_7.png",
+                "compressed": "material/thumb/material_7.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_6.png",
+                "compressed": "material/thumb/material_6.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_5.png",
+                "compressed": "material/thumb/material_5.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_4.png",
+                "compressed": "material/thumb/material_4.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_3.png",
+                "compressed": "material/thumb/material_3.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_2.png",
+                "compressed": "material/thumb/material_2.png",
+                "isNew": false
+            },
+            {
+                "original": "material/material_1.png",
+                "compressed": "material/thumb/material_1.png",
+                "isNew": false
+            }
+        ]
+    }
+}
